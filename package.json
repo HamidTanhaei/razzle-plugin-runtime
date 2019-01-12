@@ -1,6 +1,6 @@
 {
   "name": "razzle-plugin-runtimeenv",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "allow .env and .env.development in runtime",
   "main": "index.js",
   "scripts": {
