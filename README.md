@@ -18,7 +18,7 @@ sample razzle.config.js
     
     module.exports = {
       plugins: [
-          'typescript',
+          ...,
           'runtimeenv'
       ]
     };
