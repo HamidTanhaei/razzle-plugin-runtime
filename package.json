@@ -1,0 +1,24 @@
+{
+  "name": "razzle-plugin-runtimeenv",
+  "version": "1.0.0",
+  "description": "allow .env and .env.development in runtime",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HamidTanhaei/razzle-plugin-runtime.git"
+  },
+  "keywords": [
+    "razzle",
+    "enviroment",
+    "variables"
+  ],
+  "author": "Hamid Tanhaei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HamidTanhaei/razzle-plugin-runtime/issues"
+  },
+  "homepage": "https://github.com/HamidTanhaei/razzle-plugin-runtime#readme"
+}
